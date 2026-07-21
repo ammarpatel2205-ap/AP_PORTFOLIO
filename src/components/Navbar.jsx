@@ -22,7 +22,7 @@ const Navbar = () => {
           {/* Buttons */}
           <div>
             <a
-              href="public/AMMAR_RESUME.pdf"
+              href="/AMMAR_RESUME.pdf"
               target="_blank"
               rel="noreferrer"
               className="inline-flex px-10 py-4 border border-zinc-800 rounded-full items-center gap-2 cursor-pointer text-slate-500 hover:text-slate-800 hover:translate-y-1 transition duration-300"
