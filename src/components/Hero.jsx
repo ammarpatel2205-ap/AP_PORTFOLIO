@@ -9,9 +9,9 @@ function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="text-center lg:text-left">
             <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-10">
-              <span className="text-cyan-700">FrontEnd</span>
+              <span className="text-teal-600">FrontEnd</span>
               <br />
-              <span className="text-zinc-700">Developer</span>
+              <span className="text-slate-700">Developer</span>
             </h1>
             <p className="text-xl text-zinc-900 mb-6">
               I am a passionate Frontend Developer dedicated to building

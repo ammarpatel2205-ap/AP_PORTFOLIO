@@ -6,9 +6,9 @@ const Projects = () => {
     <div id="projects" className="py-20">
       <div className="max-w-7xl mx-auto px-6 py-6">
         <div className="mb-16 text-center">
-          <h2 className="text-4xl sm:text-5xl font-bold text-slate-700 mb-6">
+          <h2 className="text-4xl sm:text-5xl font-bold text-teal-600 mb-6">
             My
-            <span className="text-teal-600">Projects</span>
+            <span className="text-slate-700">Projects</span>
           </h2>
           <p className="text-xl max-w-3xl mx-auto">
             Cutting-edge web application built with modern technologies

@@ -2,6 +2,9 @@ import { FaJs, FaCss3Alt, FaHtml5, FaBootstrap, FaReact} from 'react-icons/fa6'
 import { RiTailwindCssFill } from 'react-icons/ri'
 import { SiGit, SiGithub } from 'react-icons/si'
 import profileImg from '../assets/profile.avif'
+import jeevanImg from '../assets/jeevan.png'
+import gymImg from '../assets/gym.png'
+import todoImg from '../assets/todo.png'
 import { FaProjectDiagram } from 'react-icons/fa'
 
 
@@ -63,7 +66,7 @@ export const projectData = [
     {
         title: 'Jeevan Sandhya',
         description: 'Jeevan Sandhya – Old Age Care Center is a web-based Old Age Home Management System developed using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB to efficiently manage senior residents, staff, activities, and user records.',
-        image: 'src/assets/jeevan.png',
+        image: jeevanImg,
         live: 'https://jeevan-sandhya-old-age-care-center.onrender.com/home.html',
         repo: 'https://github.com/ammarpatel2205-ap/jeevan-sandhya',
         tech: ['HTML', 'CSS', 'JavaScript',
@@ -72,7 +75,7 @@ export const projectData = [
     {
         title: 'Crazy Fitness Gym',
         description: 'Crazy Fitness Gym is a responsive fitness website built using HTML, CSS, and JavaScript that showcases gym services, trainers, membership plans, and contact information with an engaging user interface.',
-        image: 'src/assets/gym.png',
+        image: gymImg,
         live: 'https://crazy-fitness-gym.vercel.app/',
         repo: 'https://github.com/ammarpatel2205-ap/crazy-fitness-gym',
         tech: ['HTML', 'CSS', 'JavaScript']
@@ -81,7 +84,7 @@ export const projectData = [
     {
         title: 'ToDo App',
         description: 'A responsive task management app built with React and Tailwind CSS to organize daily tasks efficiently.',
-        image: 'src/assets/todo.png',
+        image: todoImg,
         live: 'https://to-do-react-app-wheat.vercel.app/',
         repo: 'https://github.com/ammarpatel2205-ap/todo-app',
         tech: ['React', 'Tailwindcss']

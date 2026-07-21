@@ -8,8 +8,8 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <div className="text-2xl font-bold text-zinc-800">
-            <span className="text-emerald-600 fontfont-orbitron">AMMAR </span>
-            <span>PATEL</span>
+            <span className="text-teal-600 fontfont-orbitron">AMMAR </span>
+            <span className="text-slate-700">PATEL</span>
           </div>
           {/* Menu */}
           <div className="hidden md:flex space-x-8 border border-gray-200 rounded-full px-10 py-4">
