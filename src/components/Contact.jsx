@@ -3,7 +3,7 @@ import { FiMail, FiLinkedin, FiGithub } from "react-icons/fi";
 
 const Contact = () => {
   return (
-    <section id="contact" className="py-20">
+    <section id="contact" className="scroll-mt-24 py-20">
       <div className="max-w-7xl mx-auto px-6">
         <div className="mb-16 text-center">
           <h2 className="text-4xl sm:text-5xl font-bold text-slate-700">

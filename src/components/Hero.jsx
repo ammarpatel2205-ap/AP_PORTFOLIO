@@ -29,10 +29,13 @@ function Hero() {
                 View my work
                 <FaArrowRight />
               </a>
-              <button className="flex items-center gap-2 border border-slate-400 rounded-full px-10 py-4 hover:border-slate-800 transition duration-300 cursor-pointer">
+              <a
+                href="#contact"
+                className="inline-flex items-center gap-2 border border-slate-400 rounded-full px-10 py-4 hover:border-slate-800 transition duration-300 cursor-pointer"
+              >
                 Contact Me
-                <FaArrowRight></FaArrowRight>
-              </button>
+                <FaArrowRight />
+              </a>
             </div>
           </div>
           {/*Image section */}
